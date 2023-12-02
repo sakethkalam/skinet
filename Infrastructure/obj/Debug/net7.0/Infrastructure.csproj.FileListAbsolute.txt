@@ -1,0 +1,15 @@
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sakethkalam/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/sakethkalam/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/sakethkalam/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/sakethkalam/skinet/Infrastructure/bin/Debug/net7.0/Core.dll
+/Users/sakethkalam/skinet/Infrastructure/bin/Debug/net7.0/Core.pdb
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/sakethkalam/skinet/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
